@@ -13,3 +13,7 @@ L'app controlla da sola se c'e' una versione nuova e propone l'aggiornamento.
 
 CyberpunkMP e le dipendenze (RED4ext, redscript, Codeware, ArchiveXL, TweakXL, Input Loader)
 hanno le proprie licenze, incluse nello zip nella cartella `licenze`.
+
+
+
+P.S Ti amo Manu
